@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ilaria! 
 - 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: 
-Twitter: @itsilariahere_
+Twitter: @ilysomma
 LinkedIn: linkedin.com/in/sommailaria 
 
 <!---
