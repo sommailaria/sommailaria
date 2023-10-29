@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Ilaria! 
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: 
-Twitter: @ilysomma
 LinkedIn: linkedin.com/in/sommailaria 
 
 <!---
