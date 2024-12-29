@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilaria! 
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me: 
 LinkedIn: linkedin.com/in/sommailaria 
 
