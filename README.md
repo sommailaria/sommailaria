@@ -1,7 +1,7 @@
 
 # Hi, I'm Ilaria! 👋
 
-I'm an aspiring Gameplay Programmer transitioning from a background in Software Quality Assurance.
+I'm an aspiring Gameplay Programmer transitioning from a background in Tech Support & QA.
 
 I'm currently developing my C++ skills through a one-on-one mentorship with a Lead Gameplay Programmer, combining structured learning with hands-on programming projects.
 
